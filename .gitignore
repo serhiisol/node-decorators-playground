@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# misc
+npm-debug.log
+
+# compiled
+.compiled
+**/*.d.ts
+**/*.js
+**/*.map
+
+#System Files
+.DS_Store
+Thumbs.db

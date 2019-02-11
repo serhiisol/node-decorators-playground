@@ -1,0 +1,26 @@
+{
+  "name": "@decorators/playground-socket",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@decorators/socket": "../../node-decorators/socket"
+  },
+  "devDependencies": {
+    "typescript": ">=3.2.2"
+  },
+  "author": "Serhii Sol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serhiiso/node-decorators/issues"
+  },
+  "engines": {
+    "node": ">=7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serhiiso/node-decorators.git"
+  },
+  "scripts": {
+    "compile": "tsc"
+  }
+}
